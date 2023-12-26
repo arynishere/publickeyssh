@@ -20,7 +20,8 @@ you should make a file for your ips and this name is "IP_FILE" for example :
 run this command for use this script 
 ```
 chmod +x PubSsh.sh
+bash PubSsh.sh
 
 ```
 
-I hope it will start your work : ) 
+I hope it works for you
