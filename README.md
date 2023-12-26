@@ -1,5 +1,5 @@
 # publickeyssh
-##Why do we need this script?
+## Why do we need this script?
 
 for share public key with many ips ,
 It is for people who want to connect to many servers with "SSHPASS" and don't want to repeatedly ssh to all servers to copy and paste their pulic key and want to do this in the form of a script in all the ip ranges they want.
