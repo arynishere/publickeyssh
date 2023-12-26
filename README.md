@@ -21,7 +21,6 @@ run this command for use this script
 ```
 chmod +x PubSsh.sh
 bash PubSsh.sh
-
 ```
 
 I hope it works for you
