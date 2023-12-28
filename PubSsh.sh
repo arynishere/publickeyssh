@@ -14,7 +14,7 @@ if ! command -v sshpass &> /dev/null; then
     $INSTALL_CMD sshpass
 fi
 read -p "enter USERNAME:" USER
-read -p "PASSWORD:" PASSWORD
+read -sp "PASSWORD:" PASSWORD
 read -p " please chose ip file location :" IP_FILE
 read -p " please enter port :" PORT 
 
